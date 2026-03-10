@@ -60,3 +60,7 @@ Complete Ethical Hacking Suite
 ---
 
 > *"Learning Ethical Hacking to make Pakistan's cyberspace safer!"* 🇵🇰
+> ⚠️ **© 2025 Abdullah Balouch — All Rights Reserved**
+> These tools are for **Educational & Ethical Use Only**
+> Unauthorized use, copying or distribution is prohibited!
+> 🇵🇰 Made in Pakistan by Abdullah Balouch
