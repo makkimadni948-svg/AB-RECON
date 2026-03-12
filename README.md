@@ -33,7 +33,7 @@ Complete Ethical Hacking Suite
 | AB-JARVIS | AI Hacking Assistant |
 | AB-SYSINFO | System Intelligence |
 | AB-TOOLBOX | All Tools In One |
-
+| AB-Forensics-Kit v1.0 | Android Forensics Tool | Rooted Termux |
 ---
 
 ## 💻 Skills
